@@ -1,0 +1,26 @@
+body {
+    padding: 10px;
+  }
+  
+  input {
+    margin: 5px;
+  }
+  
+  input{
+    margin: 5px;
+    display: flex;
+    width: 40%;
+  }
+  
+  textarea {
+    display: flex;
+    margin-left: 5px;
+    width: 40%;
+    height:150px;
+  }
+  
+  button {
+    margin-top: 10px;
+    margin-left: 5px;
+  }
+   
